@@ -3,6 +3,7 @@ import Button from './Button';
 
 const App = () => {
   
+const fetchNote = fetch('')
 
   return (
     <>
